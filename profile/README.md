@@ -8,6 +8,7 @@ Web platforms · Mobile applications · SaaS architecture — engineered in Dhak
 
 [![Website](https://img.shields.io/badge/Website-implesia.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://implesia.com)
 [![Implesia Mart](https://img.shields.io/badge/Shop-mart.implesia.com-F97316?style=for-the-badge&logo=shopify&logoColor=white)](https://mart.implesia.com)
+[![Fatema Agro](https://img.shields.io/badge/Shop-fatemaagro.implesia.com-16A34A?style=for-the-badge&logo=leaflet&logoColor=white)](https://fatemaagro.implesia.com)
 [![Email](https://img.shields.io/badge/Email-implesiaitltd%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:implesiaitltd@gmail.com)
 [![X](https://img.shields.io/badge/X-%40implesiaItLtd-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/implesiaItLtd)
 
@@ -29,22 +30,43 @@ focus on speed, reliability, and long-term maintainability.
 
 ## 🛍️ Our products
 
-### [Implesia Mart](https://mart.implesia.com)
+We build and operate our own Bangla-first online stores, end to end — storefront, ordering, admin, and delivery workflow.
 
-A Bangla-first e-commerce storefront for trending gadgets and handmade dresses — prices in BDT with
-cash on delivery.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- Catalog, cart, and checkout backed by a server-side pricing API (the API owns price, stock, shipping, and totals)
-- Coupons and discounts, order lookup by order number and phone
-- Staff admin dashboard with role-based access, real-time new-order alerts, inventory, and reports
-- Content pages (About, FAQs, Shipping & Returns, Blog) managed through a built-in CMS
+### 🛒 [Implesia Mart](https://mart.implesia.com)
 
-## 📦 Public repositories
+Online store for trending gadgets and handmade dresses — prices in BDT with cash on delivery.
 
-| Repository | Description | Stack |
-| --- | --- | --- |
-| [**implesia-mart**](https://github.com/implesia/implesia-mart) | Storefront and admin dashboard for Implesia Mart | Next.js · React · TypeScript · Tailwind CSS · Cloudflare Workers |
-| [**implesia-mart-backend**](https://github.com/implesia/implesia-mart-backend) | REST API powering the Implesia Mart storefront and admin | Python · FastAPI · PostgreSQL · Redis · Docker |
+- Catalog, cart, and checkout with server-side pricing (price, stock, shipping, and totals set by the API)
+- Coupons and discounts at checkout
+- Order lookup by order number and phone
+- Staff admin with role-based access, new-order alerts, inventory, and reports
+- Content pages and blog managed through a built-in CMS
+
+[**Visit Implesia Mart →**](https://mart.implesia.com)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌿 [Fatema Agro](https://fatemaagro.implesia.com)
+
+*Nature's goodness, delivered to your home.* Pure, natural, and traditional food and agricultural
+products from across Bangladesh — starting with village-made date-palm jaggery (খেজুরের গুড়) from Naogaon.
+
+- Jhola, danadar, and patali date-palm jaggery, made from collected date-palm sap with no flour or sugar added
+- Nationwide delivery, typically within 24–72 hours
+- Full cash on delivery, or pay 25%, 50%, 75%, or 100% online
+- 3-day easy returns, order tracking, and WhatsApp support
+- Bangla storefront with FAQs, shipping & returns policy, and blog
+
+[**Visit Fatema Agro →**](https://fatemaagro.implesia.com)
+
+</td>
+</tr>
+</table>
 
 ## 🧰 Tech stack
 
